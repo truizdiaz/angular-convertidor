@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "convertidor"
+  "defaultProject": "convertidor",
+  "cli": {
+    "analytics": "a80d43d4-fb9f-4086-88cc-5246fe48283f"
+  }
 }
